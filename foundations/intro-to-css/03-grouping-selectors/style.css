@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.BtnOne,
+.BtnTwo{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.BtnOne{
+    background-color: black;
+    color: white;
+}
+
+.BtnTwo{
+    background-color: yellow;
+}
